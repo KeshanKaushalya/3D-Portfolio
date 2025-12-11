@@ -56,6 +56,18 @@ const About = () => {
         expertise in project management and deliver high-quality solutions.
         Committed to contributing to dynamic technology teams while advancing
         technical competencies in modern development frameworks.
+        <br />
+        <br />
+        <span>Contact: +94 76 016 0321</span>
+        <br />
+        <span>Email:<Email:em> madusankakeshan782@gmail.com</Email:em></span>
+        <br />
+        <br />
+        <br />
+        <br />
+        <span className="justify-center mt-10 text-white font-bold text-[25px]">
+          Here are the services I offer:
+        </span>
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
