@@ -4,6 +4,8 @@ import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
+  const isMobile = window.innerWidth <= 768; // Adjust breakpoint as needed
+
   return (
     <section className={`relative w-full h-screen mx-auto`}>
       <div
@@ -28,7 +30,7 @@ const Hero = () => {
       <br />
       <br />
 
-      <ComputersCanvas />
+      {!isMobile && <ComputersCanvas />}
 
       <br />
       <br />
