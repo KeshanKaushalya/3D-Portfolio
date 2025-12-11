@@ -29,8 +29,8 @@ Key goals:
 ## Live Demo 🔗
 
 Add your deployed demo URL here (examples):
-- Vercel / Netlify: https://your-3d-portfolio.vercel.app
-- GitHub Pages (example): https://KeshanKaushalya.github.io/3D-Portfolio
+- Vercel : (https://3-d-portfolio-eosin-ten.vercel.app/)
+
 
 (If you want, tell me the deployment URL and I’ll add it to this README.)
 
