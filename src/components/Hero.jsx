@@ -30,7 +30,7 @@ const Hero = () => {
       <br />
       <br />
 
-      {!isMobile && <ComputersCanvas />}
+      <ComputersCanvas />
 
       <br />
       <br />
