@@ -60,7 +60,7 @@ const About = () => {
         <br />
         <span>Contact: +94 76 016 0321</span>
         <br />
-        <span>Email:<Email:em> madusankakeshan782@gmail.com</Email:em></span>
+        <span>Email: madusankakeshan782@gmail.com</span>
         <br />
         <br />
         <br />
